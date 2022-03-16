@@ -1,0 +1,15 @@
+C:\Users\getti\source\repos\Contacts2\bin\Debug\net5.0\Contacts2.exe
+C:\Users\getti\source\repos\Contacts2\bin\Debug\net5.0\Contacts2.deps.json
+C:\Users\getti\source\repos\Contacts2\bin\Debug\net5.0\Contacts2.runtimeconfig.json
+C:\Users\getti\source\repos\Contacts2\bin\Debug\net5.0\Contacts2.runtimeconfig.dev.json
+C:\Users\getti\source\repos\Contacts2\bin\Debug\net5.0\Contacts2.dll
+C:\Users\getti\source\repos\Contacts2\bin\Debug\net5.0\ref\Contacts2.dll
+C:\Users\getti\source\repos\Contacts2\bin\Debug\net5.0\Contacts2.pdb
+C:\Users\getti\source\repos\Contacts2\obj\Debug\net5.0\Contacts2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\getti\source\repos\Contacts2\obj\Debug\net5.0\Contacts2.AssemblyInfoInputs.cache
+C:\Users\getti\source\repos\Contacts2\obj\Debug\net5.0\Contacts2.AssemblyInfo.cs
+C:\Users\getti\source\repos\Contacts2\obj\Debug\net5.0\Contacts2.csproj.CoreCompileInputs.cache
+C:\Users\getti\source\repos\Contacts2\obj\Debug\net5.0\Contacts2.dll
+C:\Users\getti\source\repos\Contacts2\obj\Debug\net5.0\ref\Contacts2.dll
+C:\Users\getti\source\repos\Contacts2\obj\Debug\net5.0\Contacts2.pdb
+C:\Users\getti\source\repos\Contacts2\obj\Debug\net5.0\Contacts2.genruntimeconfig.cache
